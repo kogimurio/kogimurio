@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate Junior Full-Stack Developer from 
 🌱 I’m learning advanced techniques in Node.js.
 👯 I’m looking to collaborate on innovative projects, especially those involving web development for real-world applications.
 💬 Ask me about React.js, Django, or full-stack development.
-📫 Reach me at kogimurio@example.com.
+📫 Reach me at kogimurio@gmail.com.
 💼 Projects
 Here are some of the projects I’m currently working on or have completed:
 
