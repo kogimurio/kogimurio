@@ -1,37 +1,44 @@
-Hi there 👋
+# 👋 Hi, I'm Kenneth Muriuki! 
 
-Welcome to my GitHub profile! I'm a passionate Junior Full-Stack Developer from Kenya, skilled in building dynamic web applications using Django, React.js, JavaScript, HTML/CSS, Bootstrap, MySQL, Django Rest Framework and PostgreSQL. I’m enthusiastic about developing impactful solutions and continually growing as a developer.
+Welcome to my GitHub profile! I'm a **Junior Full-Stack Developer** specializing in **Django** and **React.js**. Based in Kenya, I create impactful web solutions that bridge frontend and backend seamlessly. With a strong foundation in **JavaScript, HTML, CSS, Bootstrap, MySQL, and PostgreSQL**, I'm passionate about building applications that are both user-friendly and responsive.
 
-🚀 About Me
-🔭 I’m currently working on a project using React.js for Frontend and Django for Backend.
-🌱 I’m learning advanced techniques in Node.js.
-👯 I’m looking to collaborate on innovative projects, especially those involving web development for real-world applications.
-💬 Ask me about React.js, Django, or full-stack development.
-📫 Reach me at kogimurio@gmail.com.
-💼 Projects
-Here are some of the projects I’m currently working on or have completed:
+---
 
-GameHaven Hub
-A full-featured gaming platform where users can view game events, live streams, leaderboards, and exclusive content. Implemented features include:
+## 💼 Projects
 
-Event Management and Calendar
-Game Reservations and Membership Tiers
-Live Chat, Payment Integration, and Analytics Dashboard
-Admin and Employee Dashboard for smooth running of the system
+- **[GameHaven Hub](https://github.com/kogimurio/GameHaven-Hub)**  
+  A community gaming platform featuring live streams, events, and a reservation system.
 
-FruitApp
-A React and Django-based application for managing product listings, showcasing CRUD functionality, and exploring payment integrations with Mpesa.
+- **[FruitApp](https://github.com/kogimurio/reactDjangoApp)**  
+  A React and Django-based application for managing products, complete with Mpesa payment integration.
 
-🛠️ Technologies & Tools
-Languages: Python, JavaScript, HTML, CSS
-Frameworks: Django, React.js
-Database: MySQL, PostgreSQL
-Tools & Other Skills: Git, Bootstrap, REST APIs, JWT Authentication
+- **[House Managers Platform](https://github.com/kogimurio/House-Managers-Platform)**  
+  A web app connecting users with local house managers, enabling easy recruitment and management.
 
-🌐 Connect with Me
+---
+
+## 🛠️ Technologies & Tools
+
+- **Languages**: JavaScript, Python, HTML, CSS
+- **Frontend**: React.js, Bootstrap
+- **Backend**: Django, MySQL, PostgreSQL
+- **APIs**: Mpesa, Twitch, Google Maps, Stripe, Paypal
+- **Dev Tools**: Git, VSCode, Postman
+
+---
+
+## 🌐 Connect with Me
+
 [![Twitter](https://img.shields.io/badge/X-@Kmurio-blue)](https://x.com/Kmurio)
 [![Instagram](https://img.shields.io/badge/Instagram-itsme_murio-%23E4405F)](https://www.instagram.com/itsme_murio/?hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kenneth%20Muriuki-blue)](https://www.linkedin.com/in/kenneth-muriuki-b22ba6161)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://murio-46524c1946aa.herokuapp.com/)
 
-I’m excited to contribute and connect with fellow developers here on GitHub. Let’s build something great together! 😊
+---
+
+## 🤝 Let's Collaborate
+
+I'm always open to collaborating on projects or discussing innovative ideas. Feel free to reach out!
+
+---
+
