@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a **Junior Full-Stack Developer** specializing
 - **Languages**: JavaScript, Python, HTML, CSS
 - **Frontend**: React.js, Bootstrap
 - **Backend**: Django, MySQL, PostgreSQL
-- **APIs**: Mpesa, Twitch, Google Maps, Stripe, Paypal
+- **APIs**: Mpesa, Twitch, Google Maps, Stripe, Paypal, DRF
 - **Dev Tools**: Git, VSCode, Postman
 
 ---
