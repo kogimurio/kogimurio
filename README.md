@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate **Junior Full-Stack Developer** f
 [![Twitter](https://img.shields.io/badge/X-@Kmurio-blue)](https://x.com/Kmurio)  
 [![Instagram](https://img.shields.io/badge/Instagram-itsme_murio-%23E4405F)](https://www.instagram.com/itsme_murio/?hl=en)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kenneth%20Muriuki-blue)](https://www.linkedin.com/in/kenneth-muriuki-b22ba6161)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://portfolioken-93e4b9bf90fd.herokuapp.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://murioportfolio.onrender.com/)
 
 ---
 
