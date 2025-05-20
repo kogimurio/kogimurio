@@ -14,40 +14,22 @@ Welcome to my GitHub profile! I'm a passionate **Junior Full-Stack Developer** f
 
 ---
 
-<!-- Include Devicon CSS -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+## 🚀 Tech Stack
 
-<div style="background-color: #111827; color: white; padding: 20px; border-radius: 10px;">
-  <h3 style="margin-bottom: 15px;">🚀 Tech Stack</h3>
-  
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; font-size: 14px;">
-    <span class="tech-badge"><i class="devicon-javascript-plain colored"></i> JavaScript</span>
-    <span class="tech-badge"><i class="devicon-python-plain colored"></i> Python</span>
-    <span class="tech-badge"><i class="devicon-html5-plain colored"></i> HTML</span>
-    <span class="tech-badge"><i class="devicon-css3-plain colored"></i> CSS</span>
-    <span class="tech-badge"><i class="devicon-tailwindcss-plain colored"></i> Tailwind</span>
-    <span class="tech-badge"><i class="devicon-react-original colored"></i> React.js</span>
-    <span class="tech-badge"><i class="devicon-bootstrap-plain colored"></i> Bootstrap</span>
-    <span class="tech-badge"><i class="devicon-django-plain colored"></i> Django</span>
-    <span class="tech-badge"><i class="devicon-mysql-plain colored"></i> MySQL</span>
-    <span class="tech-badge"><i class="devicon-postgresql-plain colored"></i> PostgreSQL</span>
-    <span class="tech-badge"><i class="devicon-git-plain colored"></i> Git</span>
-    <span class="tech-badge"><i class="devicon-vscode-plain colored"></i> VSCode</span>
-    <span class="tech-badge"><i class="devicon-postman-plain colored"></i> Postman</span>
-  </div>
-</div>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<style>
-  .tech-badge {
-    background-color: #1f2937;
-    padding: 6px 10px;
-    border-radius: 5px;
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    color: white;
-  }
-</style>
 
 
 ---
