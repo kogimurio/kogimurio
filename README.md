@@ -14,13 +14,41 @@ Welcome to my GitHub profile! I'm a passionate **Junior Full-Stack Developer** f
 
 ---
 
-## 🛠️ Technologies & Tools
+<!-- Include Devicon CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
-- **Languages**: JavaScript, Python, HTML, CSS, Tailwind
-- **Frontend**: React.js, Bootstrap
-- **Backend**: Django, MySQL, PostgreSQL
-- **APIs**: Mpesa, Twitch, Google Maps, Stripe, PayPal, Django REST Framework (DRF)
-- **Dev Tools**: Git, VSCode, Postman
+<div style="background-color: #111827; color: white; padding: 20px; border-radius: 10px;">
+  <h3 style="margin-bottom: 15px;">🚀 Tech Stack</h3>
+  
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; font-size: 14px;">
+    <span class="tech-badge"><i class="devicon-javascript-plain colored"></i> JavaScript</span>
+    <span class="tech-badge"><i class="devicon-python-plain colored"></i> Python</span>
+    <span class="tech-badge"><i class="devicon-html5-plain colored"></i> HTML</span>
+    <span class="tech-badge"><i class="devicon-css3-plain colored"></i> CSS</span>
+    <span class="tech-badge"><i class="devicon-tailwindcss-plain colored"></i> Tailwind</span>
+    <span class="tech-badge"><i class="devicon-react-original colored"></i> React.js</span>
+    <span class="tech-badge"><i class="devicon-bootstrap-plain colored"></i> Bootstrap</span>
+    <span class="tech-badge"><i class="devicon-django-plain colored"></i> Django</span>
+    <span class="tech-badge"><i class="devicon-mysql-plain colored"></i> MySQL</span>
+    <span class="tech-badge"><i class="devicon-postgresql-plain colored"></i> PostgreSQL</span>
+    <span class="tech-badge"><i class="devicon-git-plain colored"></i> Git</span>
+    <span class="tech-badge"><i class="devicon-vscode-plain colored"></i> VSCode</span>
+    <span class="tech-badge"><i class="devicon-postman-plain colored"></i> Postman</span>
+  </div>
+</div>
+
+<style>
+  .tech-badge {
+    background-color: #1f2937;
+    padding: 6px 10px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    color: white;
+  }
+</style>
+
 
 ---
 
