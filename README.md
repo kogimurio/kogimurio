@@ -7,10 +7,13 @@ Welcome to my GitHub profile! I'm a passionate **Junior Full-Stack Developer** f
 ## 💼 Projects
 
 - **[GameHaven Hub](https://github.com/kogimurio/GameHaven-Hub)**  
-  A community gaming platform with features like live streams, events, and a reservation system. Built with **React.js** and **Django**.
+  A community gaming platform with features like live streams, events, and a reservation system. Built with **React.js** and **Django**.  
+  🔗 **Live Site:** [https://gamehavenhub.onrender.com](https://gamehavenhub.onrender.com)
 
 - **[House Managers Platform](https://github.com/kogimurio/House-Managers-Platform)**  
-  A web app to connect users with local house managers, enabling easy recruitment and management. Built with **React** and **Django**.
+  A web app to connect users with local house managers, enabling easy recruitment and management. Built with **React** and **Django**.  
+  🔗 **Live Site:** [https://house-managers-platform-three-1.onrender.com](https://house-managers-platform-three-1.onrender.com)
+
 
 ---
 ## 🚀 Tech Stack
