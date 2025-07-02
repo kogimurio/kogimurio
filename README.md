@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kenneth Muriuki!
 
-Welcome to my GitHub profile! I'm a passionate **Junior Full-Stack Developer** from **Kenya**, specializing in **Django** and **React.js**. I believe in the power of technology to create meaningful solutions that positively impact everyday lives. I'm driven by challenges and always eager to learn new tools and technologies to improve my craft. With a strong foundation in **JavaScript, HTML, CSS, Bootstrap, MySQL**, and **PostgreSQL**, I am passionate about building applications that are both user-friendly and scalable.
+Welcome to my GitHub profile! I'm a passionate **Junior Full-Stack Developer** from **Kenya**, specializing in **Django**, **Node.js** and **React.js**. I believe in the power of technology to create meaningful solutions that positively impact everyday lives. I'm driven by challenges and always eager to learn new tools and technologies to improve my craft. With a strong foundation in **JavaScript, HTML, CSS, Bootstrap, MySQL**, and **PostgreSQL**, I am passionate about building applications that are both user-friendly and scalable.
 
 ---
 
