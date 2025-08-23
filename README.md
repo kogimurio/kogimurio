@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kenneth Muriuki!
 
-Welcome to my GitHub profile! I'm a passionate **Junior Full-Stack Developer** from **Kenya**, specializing in **Django**, **Node.js** and **React.js**. I believe in the power of technology to create meaningful solutions that positively impact everyday lives. I'm driven by challenges and always eager to learn new tools and technologies to improve my craft. With a strong foundation in **JavaScript, HTML, CSS, Bootstrap, MySQL**, and **PostgreSQL**, I am passionate about building applications that are both user-friendly and scalable.
+Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** from **Kenya**, specializing in **Django**, **Node.js** and **React.js**. I believe in the power of technology to create meaningful solutions that positively impact everyday lives. I'm driven by challenges and always eager to learn new tools and technologies to improve my craft. With a strong foundation in **JavaScript, HTML, CSS, Tailwind CSS**, Bootstrap, MySQL**, and **PostgreSQL**, I am passionate about building applications that are both user-friendly and scalable.
 
 ---
 
@@ -48,6 +48,8 @@ Welcome to my GitHub profile! I'm a passionate **Junior Full-Stack Developer** f
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![ngrok](https://img.shields.io/badge/-ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
 
