@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** from **K
 
 - **[House Managers Platform](https://github.com/kogimurio/House-Managers-Platform)**  
   A web app to connect users with local house managers, enabling easy recruitment and management. Built with **React** and **Django**.  
-  🔗 **Live Site:** [https://house-managers-platform-three-1.onrender.com](https://house-managers-platform-three-1.onrender.com)
+  🔗 **Live Site:** [https://house-managers-platform-three-1.onrender.com](https://house-managers-platform-three.vercel.app/)
 
 
 ---
