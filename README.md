@@ -59,13 +59,13 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** from **K
 
 [![Twitter](https://img.shields.io/badge/X-@Kmurio-blue)](https://x.com/Kmurio)  
 [![Instagram](https://img.shields.io/badge/Instagram-itsme_murio-%23E4405F)](https://www.instagram.com/itsme_murio/?hl=en)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kenneth%20Muriuki-blue)](https://www.linkedin.com/in/kenneth-muriuki-b22ba6161)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://murioportfolio.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kenneth%20Muriuki-blue)](https://www.linkedin.com/in/kenneth-muriuki/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://kenneth-muriuki-kenneths-projects-5cd49927.vercel.app//)
 
 ---
 
 ## 🤝 Let's Collaborate
 
-I'm always open to collaborating on **React**, **Django**, or **Full-Stack Web Development** projects! Feel free to reach out if you're working on an interesting project or want to discuss new ideas.
+I'm always open to collaborating on **React**, **Django**, **Node.js**, or **Full-Stack Web Development** projects! Feel free to reach out if you're working on an interesting project or want to discuss new ideas.
 
 ---
