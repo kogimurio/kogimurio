@@ -50,6 +50,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** from **K
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![ngrok](https://img.shields.io/badge/-ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 
 
