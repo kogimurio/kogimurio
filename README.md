@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kenneth Muriuki!
 
-Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** from **Kenya**, specializing in **Django**, **Node.js** and **React.js**. I believe in the power of technology to create meaningful solutions that positively impact everyday lives. I'm driven by challenges and always eager to learn new tools and technologies to improve my craft. With a strong foundation in **JavaScript, HTML, CSS, Tailwind CSS, Bootstrap, MySQL** and **PostgreSQL**, I am passionate about building applications that are both user-friendly and scalable.
+Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** from **Kenya**, specializing in **Django**, **Node.js**, **Next.js** and **React.js**. I believe in the power of technology to create meaningful solutions that positively impact everyday lives. I'm driven by challenges and always eager to learn new tools and technologies to improve my craft. With a strong foundation in **JavaScript, HTML, CSS, Tailwind CSS, Bootstrap, MySQL** and **PostgreSQL**, I am passionate about building applications that are both user-friendly and scalable.
 
 ---
 
@@ -32,6 +32,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** from **K
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🧠 Backend & APIs  
