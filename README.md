@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Kenneth Muriuki!
 
-Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** from **Kenya**, specializing in **Django**, **Node.js**, **Next.js** and **React.js**. I believe in the power of technology to create meaningful solutions that positively impact everyday lives. I'm driven by challenges and always eager to learn new tools and technologies to improve my craft. With a strong foundation in **JavaScript, HTML, CSS, Tailwind CSS, Bootstrap, MySQL** and **PostgreSQL**, I am passionate about building applications that are both user-friendly and scalable.
+Welcome to my GitHub profile! I'm a **Full-Stack Developer** from **Kenya** with hands-on experience building **end-to-end web applications** using **React.js, Next.js, Redux Toolkit, Django, and Node.js Express.js**.
+
+I specialize in developing **scalable frontend interfaces** backed by **REST APIs**, secure authentication, and databases. I enjoy solving real-world problems, designing clean architectures, and continuously improving both frontend and backend systems.
+
 
 ---
 
@@ -57,13 +60,13 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** from **K
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ### 🧩 State Management
-- Redux
-- Redux Toolkit
+- Redux for predictable and centralized global state
+- Redux Toolkit (RTK) for scalable store configuration and reducers
+- Redux Thunk for handling asynchronous logic and API requests
 
 
 ### 📚 Currently Learning
-![Redux Advanced](https://img.shields.io/badge/-Advanced%20Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![System Design](https://img.shields.io/badge/-Frontend%20Architecture-0A66C2?style=for-the-badge)
+- Advanced Redux Toolkit
 
 ---
 
