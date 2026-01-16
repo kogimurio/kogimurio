@@ -56,7 +56,14 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** from **K
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
+### 🧩 State Management
+- Redux
+- Redux Toolkit
 
+
+### 📚 Currently Learning
+![Redux Advanced](https://img.shields.io/badge/-Advanced%20Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![System Design](https://img.shields.io/badge/-Frontend%20Architecture-0A66C2?style=for-the-badge)
 
 ---
 
