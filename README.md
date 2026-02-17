@@ -66,7 +66,7 @@ I specialize in developing **scalable frontend interfaces** backed by **REST API
 
 
 ### 📚 Currently Learning
-- Advanced Redux Toolkit
+- TypeScript
 
 ---
 
